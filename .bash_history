@@ -129,3 +129,41 @@ git push -u origin main
 yes
 git push -u origin main
 ssh -T git@github.com
+git push -u origin main
+git commit -m "Connection Commit"
+git add .
+git init
+git staus
+git status
+git add .
+cd gitrepo
+git add .
+git init
+git commit -m "Connection Commit"
+git status
+git branch -M main
+git remote add origin https://github.com/Tenison917/gitrepo.git
+git push -u origin main
+git push origin master
+git push origin main
+sudo nano /etc/ssh/sshd_config
+sudo systemctl restart sshd
+git push -u origin main
+sudo nano /etc/ssh/sshd_config
+git config --global user.name
+git config --global user.email
+git push -u origin main
+ssh -T git@github.com
+ssh-add -l -E sha256
+ssh-agent sh -c 'ssh-add; ssh-add -L
+ls ~/.ssh/*.pub
+cd ..
+cd ..
+ssh-agent sh -c 'ssh-add; ssh-add -L
+ls ~/.ssh/*.pub
+cd ..
+ls ~/.ssh/*.pub
+ls -al ~/.ssh
+pbcopy < ~/.ssh/id_rsa.pub
+cat ~/.ssh/id_rsa.pub
+cat ~/ .ssh/id_rsa.pub
