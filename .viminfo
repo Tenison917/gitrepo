@@ -12,7 +12,7 @@
 ~H
 # Command Line History (newest to oldest):
 :wq
-|2,0,1647909195,,"wq"
+|2,0,1647912857,,"wq"
 :wq!
 |2,0,1647908792,,"wq!"
 :q
@@ -29,28 +29,34 @@
 # Registers:
 
 # File marks:
-'0  19  3  ~/.git/COMMIT_EDITMSG
-|4,48,19,3,1647909195,"~/.git/COMMIT_EDITMSG"
-'1  1  0  ~/.git/COMMIT_EDITMSG
-|4,49,1,0,1647909167,"~/.git/COMMIT_EDITMSG"
-'2  1  0  ~/.git/COMMIT_EDITMSG
-|4,50,1,0,1647909167,"~/.git/COMMIT_EDITMSG"
+'0  2  5  ~/.git/COMMIT_EDITMSG
+|4,48,2,5,1647912857,"~/.git/COMMIT_EDITMSG"
+'1  20  3  ~/.git/COMMIT_EDITMSG
+|4,49,20,3,1647909195,"~/.git/COMMIT_EDITMSG"
+'2  19  3  ~/.git/COMMIT_EDITMSG
+|4,50,19,3,1647909195,"~/.git/COMMIT_EDITMSG"
 '3  1  0  ~/.git/COMMIT_EDITMSG
-|4,51,1,0,1647908818,"~/.git/COMMIT_EDITMSG"
+|4,51,1,0,1647909167,"~/.git/COMMIT_EDITMSG"
 '4  1  0  ~/.git/COMMIT_EDITMSG
-|4,52,1,0,1647908818,"~/.git/COMMIT_EDITMSG"
-'5  1  12  ~/.git/COMMIT_EDITMSG
-|4,53,1,12,1647908792,"~/.git/COMMIT_EDITMSG"
-'6  1  12  ~/.git/COMMIT_EDITMSG
-|4,54,1,12,1647908792,"~/.git/COMMIT_EDITMSG"
-'7  1  12  ~/.git/COMMIT_EDITMSG
-|4,55,1,12,1647908792,"~/.git/COMMIT_EDITMSG"
-'8  1  12  ~/.git/COMMIT_EDITMSG
-|4,56,1,12,1647908792,"~/.git/COMMIT_EDITMSG"
-'9  3  0  ~/.git/COMMIT_EDITMSG
-|4,57,3,0,1647908741,"~/.git/COMMIT_EDITMSG"
+|4,52,1,0,1647909167,"~/.git/COMMIT_EDITMSG"
+'5  1  0  ~/.git/COMMIT_EDITMSG
+|4,53,1,0,1647909167,"~/.git/COMMIT_EDITMSG"
+'6  1  0  ~/.git/COMMIT_EDITMSG
+|4,54,1,0,1647909167,"~/.git/COMMIT_EDITMSG"
+'7  1  0  ~/.git/COMMIT_EDITMSG
+|4,55,1,0,1647908818,"~/.git/COMMIT_EDITMSG"
+'8  1  0  ~/.git/COMMIT_EDITMSG
+|4,56,1,0,1647908818,"~/.git/COMMIT_EDITMSG"
+'9  1  0  ~/.git/COMMIT_EDITMSG
+|4,57,1,0,1647908818,"~/.git/COMMIT_EDITMSG"
 
 # Jumplist (newest first):
+-'  2  5  ~/.git/COMMIT_EDITMSG
+|4,39,2,5,1647912857,"~/.git/COMMIT_EDITMSG"
+-'  1  0  ~/.git/COMMIT_EDITMSG
+|4,39,1,0,1647912841,"~/.git/COMMIT_EDITMSG"
+-'  20  3  ~/.git/COMMIT_EDITMSG
+|4,39,20,3,1647909195,"~/.git/COMMIT_EDITMSG"
 -'  19  3  ~/.git/COMMIT_EDITMSG
 |4,39,19,3,1647909195,"~/.git/COMMIT_EDITMSG"
 -'  1  0  ~/.git/COMMIT_EDITMSG
@@ -61,6 +67,8 @@
 |4,39,1,0,1647908818,"~/.git/COMMIT_EDITMSG"
 -'  1  12  ~/.git/COMMIT_EDITMSG
 |4,39,1,12,1647908792,"~/.git/COMMIT_EDITMSG"
+-'  4  0  ~/.git/COMMIT_EDITMSG
+|4,39,4,0,1647908752,"~/.git/COMMIT_EDITMSG"
 -'  3  0  ~/.git/COMMIT_EDITMSG
 |4,39,3,0,1647908752,"~/.git/COMMIT_EDITMSG"
 -'  3  0  ~/.git/COMMIT_EDITMSG
@@ -137,28 +145,70 @@
 |4,39,2,0,1647908004,"~/gitrepo/.git/COMMIT_EDITMSG"
 -'  2  0  ~/gitrepo/.git/COMMIT_EDITMSG
 |4,39,2,0,1647908004,"~/gitrepo/.git/COMMIT_EDITMSG"
--'  1  0  ~/gitrepo/.git/COMMIT_EDITMSG
-|4,39,1,0,1647907958,"~/gitrepo/.git/COMMIT_EDITMSG"
--'  1  0  ~/gitrepo/.git/COMMIT_EDITMSG
-|4,39,1,0,1647907958,"~/gitrepo/.git/COMMIT_EDITMSG"
--'  1  0  ~/gitrepo/.git/COMMIT_EDITMSG
-|4,39,1,0,1647907958,"~/gitrepo/.git/COMMIT_EDITMSG"
--'  1  0  ~/gitrepo/.git/COMMIT_EDITMSG
-|4,39,1,0,1647907958,"~/gitrepo/.git/COMMIT_EDITMSG"
--'  1  0  ~/gitrepo/.git/COMMIT_EDITMSG
-|4,39,1,0,1647907958,"~/gitrepo/.git/COMMIT_EDITMSG"
--'  1  0  ~/gitrepo/.git/COMMIT_EDITMSG
-|4,39,1,0,1647907958,"~/gitrepo/.git/COMMIT_EDITMSG"
--'  1  0  ~/gitrepo/.git/COMMIT_EDITMSG
-|4,39,1,0,1647907958,"~/gitrepo/.git/COMMIT_EDITMSG"
--'  1  0  ~/gitrepo/.git/COMMIT_EDITMSG
-|4,39,1,0,1647907958,"~/gitrepo/.git/COMMIT_EDITMSG"
--'  1  0  ~/gitrepo/.git/COMMIT_EDITMSG
-|4,39,1,0,1647907958,"~/gitrepo/.git/COMMIT_EDITMSG"
--'  1  0  ~/gitrepo/.git/COMMIT_EDITMSG
-|4,39,1,0,1647907958,"~/gitrepo/.git/COMMIT_EDITMSG"
--'  1  0  ~/gitrepo/.git/COMMIT_EDITMSG
-|4,39,1,0,1647907958,"~/gitrepo/.git/COMMIT_EDITMSG"
+-'  2  0  ~/gitrepo/.git/COMMIT_EDITMSG
+|4,39,2,0,1647908004,"~/gitrepo/.git/COMMIT_EDITMSG"
+-'  2  0  ~/gitrepo/.git/COMMIT_EDITMSG
+|4,39,2,0,1647908004,"~/gitrepo/.git/COMMIT_EDITMSG"
+-'  2  0  ~/gitrepo/.git/COMMIT_EDITMSG
+|4,39,2,0,1647908004,"~/gitrepo/.git/COMMIT_EDITMSG"
+-'  2  0  ~/gitrepo/.git/COMMIT_EDITMSG
+|4,39,2,0,1647908004,"~/gitrepo/.git/COMMIT_EDITMSG"
+-'  2  0  ~/gitrepo/.git/COMMIT_EDITMSG
+|4,39,2,0,1647908004,"~/gitrepo/.git/COMMIT_EDITMSG"
+-'  2  0  ~/gitrepo/.git/COMMIT_EDITMSG
+|4,39,2,0,1647908004,"~/gitrepo/.git/COMMIT_EDITMSG"
+-'  2  0  ~/gitrepo/.git/COMMIT_EDITMSG
+|4,39,2,0,1647908004,"~/gitrepo/.git/COMMIT_EDITMSG"
+-'  2  0  ~/gitrepo/.git/COMMIT_EDITMSG
+|4,39,2,0,1647908004,"~/gitrepo/.git/COMMIT_EDITMSG"
+-'  2  0  ~/gitrepo/.git/COMMIT_EDITMSG
+|4,39,2,0,1647908004,"~/gitrepo/.git/COMMIT_EDITMSG"
+-'  2  0  ~/gitrepo/.git/COMMIT_EDITMSG
+|4,39,2,0,1647908004,"~/gitrepo/.git/COMMIT_EDITMSG"
+-'  2  0  ~/gitrepo/.git/COMMIT_EDITMSG
+|4,39,2,0,1647908004,"~/gitrepo/.git/COMMIT_EDITMSG"
+-'  2  0  ~/gitrepo/.git/COMMIT_EDITMSG
+|4,39,2,0,1647908004,"~/gitrepo/.git/COMMIT_EDITMSG"
+-'  2  0  ~/gitrepo/.git/COMMIT_EDITMSG
+|4,39,2,0,1647908004,"~/gitrepo/.git/COMMIT_EDITMSG"
+-'  2  0  ~/gitrepo/.git/COMMIT_EDITMSG
+|4,39,2,0,1647908004,"~/gitrepo/.git/COMMIT_EDITMSG"
+-'  2  0  ~/gitrepo/.git/COMMIT_EDITMSG
+|4,39,2,0,1647908004,"~/gitrepo/.git/COMMIT_EDITMSG"
+-'  2  0  ~/gitrepo/.git/COMMIT_EDITMSG
+|4,39,2,0,1647908004,"~/gitrepo/.git/COMMIT_EDITMSG"
+-'  2  0  ~/gitrepo/.git/COMMIT_EDITMSG
+|4,39,2,0,1647908004,"~/gitrepo/.git/COMMIT_EDITMSG"
+-'  2  0  ~/gitrepo/.git/COMMIT_EDITMSG
+|4,39,2,0,1647908004,"~/gitrepo/.git/COMMIT_EDITMSG"
+-'  2  0  ~/gitrepo/.git/COMMIT_EDITMSG
+|4,39,2,0,1647908004,"~/gitrepo/.git/COMMIT_EDITMSG"
+-'  2  0  ~/gitrepo/.git/COMMIT_EDITMSG
+|4,39,2,0,1647908004,"~/gitrepo/.git/COMMIT_EDITMSG"
+-'  2  0  ~/gitrepo/.git/COMMIT_EDITMSG
+|4,39,2,0,1647908004,"~/gitrepo/.git/COMMIT_EDITMSG"
+-'  2  0  ~/gitrepo/.git/COMMIT_EDITMSG
+|4,39,2,0,1647908004,"~/gitrepo/.git/COMMIT_EDITMSG"
+-'  2  0  ~/gitrepo/.git/COMMIT_EDITMSG
+|4,39,2,0,1647908004,"~/gitrepo/.git/COMMIT_EDITMSG"
+-'  2  0  ~/gitrepo/.git/COMMIT_EDITMSG
+|4,39,2,0,1647908004,"~/gitrepo/.git/COMMIT_EDITMSG"
+-'  2  0  ~/gitrepo/.git/COMMIT_EDITMSG
+|4,39,2,0,1647908004,"~/gitrepo/.git/COMMIT_EDITMSG"
+-'  2  0  ~/gitrepo/.git/COMMIT_EDITMSG
+|4,39,2,0,1647908004,"~/gitrepo/.git/COMMIT_EDITMSG"
+-'  2  0  ~/gitrepo/.git/COMMIT_EDITMSG
+|4,39,2,0,1647908004,"~/gitrepo/.git/COMMIT_EDITMSG"
+-'  2  0  ~/gitrepo/.git/COMMIT_EDITMSG
+|4,39,2,0,1647908004,"~/gitrepo/.git/COMMIT_EDITMSG"
+-'  2  0  ~/gitrepo/.git/COMMIT_EDITMSG
+|4,39,2,0,1647908004,"~/gitrepo/.git/COMMIT_EDITMSG"
+-'  2  0  ~/gitrepo/.git/COMMIT_EDITMSG
+|4,39,2,0,1647908004,"~/gitrepo/.git/COMMIT_EDITMSG"
+-'  2  0  ~/gitrepo/.git/COMMIT_EDITMSG
+|4,39,2,0,1647908004,"~/gitrepo/.git/COMMIT_EDITMSG"
+-'  2  0  ~/gitrepo/.git/COMMIT_EDITMSG
+|4,39,2,0,1647908004,"~/gitrepo/.git/COMMIT_EDITMSG"
 -'  1  0  ~/gitrepo/.git/COMMIT_EDITMSG
 |4,39,1,0,1647907958,"~/gitrepo/.git/COMMIT_EDITMSG"
 -'  1  0  ~/gitrepo/.git/COMMIT_EDITMSG
@@ -205,12 +255,13 @@
 # History of marks within files (newest to oldest):
 
 > ~/.git/COMMIT_EDITMSG
-	*	1647909186	0
-	"	19	3
-	^	19	4
-	.	19	4
+	*	1647912853	0
+	"	2	5
+	^	2	6
+	.	2	5
 	+	1	12
-	+	19	4
+	+	20	4
+	+	2	5
 
 > ~/gitrepo/.git/COMMIT_EDITMSG
 	*	1647907995	0
