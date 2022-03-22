@@ -1,3 +1,7 @@
 This is my first git file
 Adding Second File.
+<<<<<<< HEAD
 Adding new code changes.
+=======
+Adding third line.
+>>>>>>> b8b73735e352dcb336b2b67f8b0900f43c49e1b5
